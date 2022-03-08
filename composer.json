@@ -1,0 +1,11 @@
+{
+  "name": "flipdev/mage2-rational",
+  "description": "Mage2 TEST-Theme",
+  "type": "magento2-theme",
+  "version": "1.0.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
